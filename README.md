@@ -39,7 +39,7 @@ Stack: Next.js, TypeScript, MUI, p5.js, Framer Motion
 ---
 
 ## 📫 How to reach me
-- Email: **your.email@example.com**
+- Email: **temenovbekzan@gmail.com**
 - LinkedIn: [bekjan-temenov](https://www.linkedin.com/in/%D0%B1%D0%B5%D0%BA%D0%B6%D0%B0%D0%BD-%D1%82%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2-0ab4b833a/)
 - Telegram: [@temen0v](https://t.me/temen0v)
 
