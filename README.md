@@ -4,7 +4,7 @@
 🎯 Passion for **AI-powered** and **EdTech** projects  
 💡 Currently building:
 - **[Edupath](https://github.com/Bekjan-Temenov/Edupath)** — online marketplace for courses.
-- **[AiMektep](https://github.com/Bekjan-Temenov/AiMektep)** — AI-powered 2D games for education.
+- **[AiMektep](https://github.com/Bekjan-Temenov/AiMektep)** — AI-powered interactive learning platform (Math for kids).
 
 ---
 
