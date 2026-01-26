@@ -21,8 +21,9 @@
 ## 🌟 Featured Projects
 
 ### [Edupath](https://github.com/Bekjan-Temenov/Edupath)
-📚 Online Marketplace for Courses
-Stack:: Next.js, TypeScript, MUI, Node.js
+📚 **Online Marketplace for Courses**
+
+Stack: Next.js, TypeScript, Shadcn,Scss
 - Browse and purchase courses through a modern, responsive interface
 - Secure authentication and payment-ready architecture
 - Admin dashboard for managing courses, categories, and content
