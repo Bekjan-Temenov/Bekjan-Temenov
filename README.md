@@ -21,20 +21,24 @@
 ## 🌟 Featured Projects
 
 ### [Edupath](https://github.com/Bekjan-Temenov/Edupath)
-📚 **Online marketplace for courses**  
-Stack: Next.js, TypeScript, MUI, Node.js  
-- Browse and purchase courses easily  
-- Secure payment integration  
-- Modern and responsive UI  
+📚 Online Marketplace for Courses
+Stack:: Next.js, TypeScript, MUI, Node.js
+- Browse and purchase courses through a modern, responsive interface
+- Secure authentication and payment-ready architecture
+- Admin dashboard for managing courses, categories, and content
+- SEO-friendly pages and optimized performance
 ---
 
 ### [AiMektep](https://github.com/Bekjan-Temenov/AiMektep)
-🎮 **AI-powered 2D educational games**  
-Stack: Next.js, TypeScript, MUI, p5.js, Framer Motion  
-- AI-generated game levels  
-- Smooth 2D animations  
-- Gamified learning approach  
-[🔗 Play Online](http://26.36.149.126:3000)
+🎮 **AI-powered interactive learning platform (Math for kids)**
+
+Stack: Next.js, TypeScript, MUI, p5.js, Framer Motion
+- Game-based learning platform inspired by Duolingo, focused on teaching math through interaction
+- Physics-based simulations (water flow, weight & balance, geometry, shapes, colors) built with p5.js
+- Drag-and-drop mechanics (DnD) instead of classic 2D sprites
+- AI-assisted generation of learning scenarios and level logic, not just static tasks
+- Smooth animations and transitions using Framer Motion
+- Designed for children: intuitive UX, visual feedback, playful problem-solving
 
 ---
 
