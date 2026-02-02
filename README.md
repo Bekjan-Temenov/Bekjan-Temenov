@@ -23,6 +23,8 @@ Stack: Next.js, TypeScript, Shadcn, SCSS
 - SEO-ready pages and optimized performance
 - Frontend-complete MVP (backend mocked for rapid iteration)
 
+Live demo: http://edupath-9iz67fp61-bekjans-projects.vercel.app/
+
 ---
 
 ### **Drive Car**
