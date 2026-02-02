@@ -1,51 +1,53 @@
-# 👋 Hi, I'm Bekjan Temenov
+# 👋 Hi, I'm Bekzhan Temenov
 
-🚀 **Frontend Developer** specializing in **Next.js, React, and TypeScript**  
-🎯 Passion for **AI-powered** and **EdTech** projects  
-💡 Currently building:
-- **[Edupath](https://github.com/Bekjan-Temenov/Edupath)** — online marketplace for courses.
-- **[AiMektep](https://github.com/Bekjan-Temenov/AiMektep)** — AI-powered interactive learning platform (Math for kids).
+🚀 **Frontend Developer** building **business web platforms and admin dashboards**  
+🧠 Focused on **Next.js, React, and TypeScript**  
+💡 Experience with **education platforms, marketplaces, and data-driven interfaces**
 
 ---
 
 ## 🛠 Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-black?style=flat&logo=framer)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+Next.js · React · TypeScript · SCSS · MUI · Framer Motion · Node.js
 
 ---
 
 ## 🌟 Featured Projects
 
-### [Edupath](https://github.com/Bekjan-Temenov/Edupath)
-📚 **Online Marketplace for Courses**
+### **Edupath**
+📚 **Education Platform MVP for Schools**
 
-Stack: Next.js, TypeScript, Shadcn,Scss
-- Browse and purchase courses through a modern, responsive interface
-- Secure authentication and payment-ready architecture
-- Admin dashboard for managing courses, categories, and content
-- SEO-friendly pages and optimized performance
----
-
-### [AiMektep](https://github.com/Bekjan-Temenov/AiMektep)
-🎮 **AI-powered interactive learning platform (Math for kids)**
-
-Stack: Next.js, TypeScript, MUI, p5.js, Framer Motion
-- Game-based learning platform inspired by Duolingo, focused on teaching math through interaction
-- Physics-based simulations (water flow, weight & balance, geometry, shapes, colors) built with p5.js
-- Drag-and-drop mechanics (DnD) instead of classic 2D sprites
-- AI-assisted generation of learning scenarios and level logic, not just static tasks
-- Smooth animations and transitions using Framer Motion
-- Designed for children: intuitive UX, visual feedback, playful problem-solving
+Stack: Next.js, TypeScript, Shadcn, SCSS  
+- Education platform with online & offline courses
+- Role-based admin dashboard (courses, categories, content, news)
+- Applications flow and statistics
+- SEO-ready pages and optimized performance
+- Frontend-complete MVP (backend mocked for rapid iteration)
 
 ---
 
-## 📫 How to reach me
-- Email: **temenovbekzan@gmail.com**
-- LinkedIn: [bekjan-temenov](https://www.linkedin.com/in/bekjan-temenov/)
-- Telegram: [@temen0v](https://t.me/temen0v)
+### **Drive Car**
+🚗 **Car Sales Platform with Admin Panel**
+
+Stack: Next.js, TypeScript, Node.js  
+- User and admin roles
+- Car listings, filters, and management dashboard
+- Real backend integration
+- End-to-end business flow
 
 ---
+
+### **AiMektep**
+🎮 **Interactive Learning Platform for Kids (Math)**
+
+Stack: Next.js, TypeScript, MUI, p5.js, Framer Motion  
+- Game-based learning inspired by Duolingo
+- Physics-based simulations and drag-and-drop mechanics
+- Canvas-based interactions using p5.js
+- Designed for intuitive UX and visual feedback
+
+---
+
+## 📫 Contact
+- Email: temenovbekzan@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/bekjan-temenov  
+- Telegram: @temen0v
